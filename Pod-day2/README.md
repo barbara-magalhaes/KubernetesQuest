@@ -18,7 +18,8 @@ kubectl get pods -A
 kubectl get pods -n <namespace>
 ```
 4. Ver detalhes sobre o pod:
-```kubectl describe pods giropops
+```sh
+kubectl describe pods giropops
 ```
 ## Criando pod com yaml :
 ```sh
